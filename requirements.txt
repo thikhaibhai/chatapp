@@ -1,1 +1,7 @@
-streamlit sentence-transformers PyMuPDF langchain numpy google-generativeai python-dotenv pillow
+streamlit
+sentence-transformers
+PyMuPDF
+langchain
+numpy
+google-generativeai
+pillow
